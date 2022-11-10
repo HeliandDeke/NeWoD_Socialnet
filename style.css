@@ -893,3 +893,15 @@ ul{
     }
 }
 
+@media (max-width: 576px){
+    .friend
+    {
+        width: 40%;
+    }
+    .record
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
